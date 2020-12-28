@@ -13,12 +13,12 @@
 - 손님이 간식을 주문하면 관리자가 확인 후 전달 가능
 - 사용하기 쉬운 화면 디자인
 
-![PC%E1%84%87%E1%85%A1%E1%86%BC%20b64c9b54f5804395a49a8bbdfe3d095d/1.png](PC%E1%84%87%E1%85%A1%E1%86%BC%20b64c9b54f5804395a49a8bbdfe3d095d/1.png)
+![1.png](1.png)
 
-![PC%E1%84%87%E1%85%A1%E1%86%BC%20b64c9b54f5804395a49a8bbdfe3d095d/2.png](PC%E1%84%87%E1%85%A1%E1%86%BC%20b64c9b54f5804395a49a8bbdfe3d095d/2.png)
+![2.png](2.png)
 
-![PC%E1%84%87%E1%85%A1%E1%86%BC%20b64c9b54f5804395a49a8bbdfe3d095d/a4.png](PC%E1%84%87%E1%85%A1%E1%86%BC%20b64c9b54f5804395a49a8bbdfe3d095d/a4.png)
+![a4.png](a4.png)
 
-![PC%E1%84%87%E1%85%A1%E1%86%BC%20b64c9b54f5804395a49a8bbdfe3d095d/a8.png](PC%E1%84%87%E1%85%A1%E1%86%BC%20b64c9b54f5804395a49a8bbdfe3d095d/a8.png)
+![a8.png](a8.png)
 
-![PC%E1%84%87%E1%85%A1%E1%86%BC%20b64c9b54f5804395a49a8bbdfe3d095d/c6.png](PC%E1%84%87%E1%85%A1%E1%86%BC%20b64c9b54f5804395a49a8bbdfe3d095d/c6.png)
+![c6.png](c6.png)
